@@ -1,6 +1,3 @@
 # 30DayMapChallenge_2024
 
-<div class="video-container">
-    <iframe src="/sdot_trees_2_colors.html" height="555" width="700" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>
+This year I only created 1 map: day 22. 2 colours. I created a map of trees with orange or blue in the name, with corresponding colors.
